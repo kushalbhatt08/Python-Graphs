@@ -1,2 +1,49 @@
-# Python_Graphs
-There is data on Bengaluru House in CSV format, and several sorts of graphs are created to extract useful information from the data.
+# 🏡 Bengaluru House Price Analysis – Python Visualization Project
+
+## 📌 Project Overview
+This project explores Bengaluru house price data using Python to identify pricing patterns, trends, and relationships between key variables such as area, location, number of bedrooms, and price.  
+A series of data visualizations were created to make the dataset easier to understand and to highlight important insights for potential buyers, sellers, and analysts.
+
+---
+
+## 🛠 Tools & Technologies
+- **Python**  
+- **pandas** – data cleaning & preprocessing  
+- **NumPy** – numerical operations  
+- **Matplotlib** – data visualization  
+- **Seaborn** – advanced statistical plots  
+- **Jupyter Notebook** – interactive analysis  
+
+---
+
+## 📂 Dataset
+- **File:** `Bengaluru_House_Data.csv`  
+- **Source:** Public Kaggle dataset  
+- Contains features such as:
+  - Area (sqft)  
+  - Location  
+  - Bathroom count  
+  - BHK  
+  - Price  
+
+---
+
+## 📊 Visualizations Included
+### ✔ Distribution Plots
+- Price distribution  
+- Area (sqft) distribution  
+- BHK (rooms) distribution  
+
+### ✔ Relationship Plots
+- **Price vs Area**
+- **Price vs Number of Bedrooms**
+- **Price vs Number of Bathrooms**
+- **Scatter plots** to identify outliers
+
+### ✔ Categorical Analysis
+- Average price by location  
+- Count of houses by BHK  
+- Price variation across neighborhoods  
+
+Images or plots can be added inside a folder such as:
+
