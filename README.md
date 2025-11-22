@@ -15,19 +15,7 @@ A series of data visualizations were created to make the dataset easier to under
 - **Jupyter Notebook** – interactive analysis  
 
 ---
-
-## 📂 Dataset
-- **File:** `Bengaluru_House_Data.csv`  
-- **Source:** Public Kaggle dataset  
-- Contains features such as:
-  - Area (sqft)  
-  - Location  
-  - Bathroom count  
-  - BHK  
-  - Price  
-
----
-
+ 
 ## 📊 Visualizations Included
 ### ✔ Distribution Plots
 - Price distribution  
@@ -44,6 +32,3 @@ A series of data visualizations were created to make the dataset easier to under
 - Average price by location  
 - Count of houses by BHK  
 - Price variation across neighborhoods  
-
-Images or plots can be added inside a folder such as:
-
